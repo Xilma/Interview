@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Julius</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Register</string>
+    <string name="hello">Hello World</string>
+    <string name="password_no_match">Passwords don\'t match</string>
+    <string name="enter_all_credentials">Please enter all credentials</string>
+    <string name="python_option">Python</string>
+    <string name="c_option">C</string>
+    <string name="java_option">Java</string>
+    <string name="female_option">Female</string>
+    <string name="male_option">Male</string>
+    <string name="prompt_enter_email">Please enter email</string>
+    <string name="prompt_enter_password">Please enter password</string>
+    <string name="request_login_string">req_login</string>
+    <string name="error_string">error</string>
+    <string name="response_message">connected</string>
+    <string name="db_table_users">users</string>
+    <string name="db_column_password">password</string>
+    <string name="db_column_email">email</string>
+    <string name="request_register_string">req_register</string>
+    <string name="db_column_firstname">firstname</string>
+    <string name="db_column_gender">gender</string>
+    <string name="db_column_language">language</string>
+    <string name="db_column_dob">dob</string>
+    <string name="success_string">success</string>
+</resources>
